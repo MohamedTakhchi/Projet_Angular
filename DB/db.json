@@ -1,0 +1,84 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "FC Barcelone",
+      "establishYear": 1985,
+      "imgUrl": "assets/clubs/fcb.png"
+    },
+    {
+      "name": "Real Madrid",
+      "establishYear": 1899,
+      "imgUrl": "assets/clubs/rmd.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "PSG",
+      "establishYear": 1900,
+      "imgUrl": "assets/clubs/psg.png"
+    },
+    {
+      "id": 4,
+      "name": "MAN United",
+      "establishYear": 1865,
+      "imgUrl": "assets/clubs/manu.png"
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "age": 32,
+      "origin": "Argentine",
+      "poste": "Attaquant",
+      "imgUrl": "assets/players/messi.jpg",
+      "clubId": 1
+    },
+    {
+      "id": 2,
+      "name": "Ter Shtegen",
+      "age": 29,
+      "origin": "Allemand",
+      "poste": "Gardien",
+      "imgUrl": "assets/players/stegen.jpg",
+      "clubId": 1
+    },
+    {
+      "id": 3,
+      "name": "Sergio Busquets",
+      "age": 33,
+      "origin": "Espagne",
+      "poste": "Milieu",
+      "imgUrl": "assets/players/busquets.jpg",
+      "clubId": 1
+    },
+    {
+      "id": 4,
+      "name": "Neymar JR",
+      "age": 27,
+      "origin": "Brésil",
+      "poste": "Attaquant",
+      "imgUrl": "assets/players/neymar.jpg",
+      "clubId": 3
+    },
+    {
+      "id": 5,
+      "name": "Keylor Navas",
+      "age": 29,
+      "origin": "Costa Rica",
+      "poste": "Gardien",
+      "imgUrl": "assets/players/navas.jpg",
+      "clubId": 3
+    },
+    {
+      "id": 6,
+      "name": "Dimaria",
+      "age": 29,
+      "origin": "Argentine",
+      "poste": "Attaquant",
+      "imgUrl": "assets/players/dimaria.jpg",
+      "clubId": 3
+    }
+  ]
+}
